@@ -1,4 +1,4 @@
-# clean-code-javascript
+# clean-code-javascript如何写出更好可读性的js代码
 
 ## Table of Contents
 
